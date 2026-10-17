@@ -6,6 +6,8 @@
 
 Start with [the learning plan](00-learning-plan.md), complete [prerequisites](01-prerequisites.md), and set up [your account and tools](02-account-and-tooling.md). Then follow the numbered technical chapters. Use the projects to prove that you can combine services into a working system.
 
+For step-by-step implementation, open the [tutorial collection](tutorials/README.md). It covers the entire roadmap in subject folders, including an 18-part AI/ML sequence, worked examples, verification, troubleshooting, and cleanup. Use its [coverage register](tutorials/COVERAGE.md) to trace original topics to tutorials.
+
 ## What this roadmap covers
 
 This is a broad curriculum covering the main AWS disciplines and a discovery map for specialized services. Core topics receive detailed treatment; specialist topics include what to learn, when they matter, and where to go deeper. AWS changes continuously, so a finite guide cannot contain every API, regional exception, new launch, or service limit. The [service coverage map](30-service-coverage-map.md) makes the breadth explicit, and the [resource guide](28-official-resources-and-updates.md) explains how to close workload-specific gaps.
