@@ -1,5 +1,10 @@
 # AWS roadmap: from first principles to production systems
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/hareramray)
+[![GitHub stars](https://img.shields.io/github/stars/hareramray/aws-roadmap?style=flat&logo=github)](https://github.com/hareramray/aws-roadmap/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hareramray/aws-roadmap?style=flat&logo=github)](https://github.com/hareramray/aws-roadmap/forks)
+[![GitHub issues](https://img.shields.io/github/issues/hareramray/aws-roadmap?style=flat&logo=github)](https://github.com/hareramray/aws-roadmap/issues)
+
 **Audience:** a beginner who wants a complete learning path, or an engineer filling gaps across AWS.  
 **Review date:** 18 October 2026.  
 **Format:** separate, linked Markdown chapters with explanations, practical work, checks, and official references.
@@ -82,3 +87,7 @@ The labs are learning instructions, not a claim that infrastructure has already 
 ## Currency and sources
 
 Official AWS references are provided within chapters. Service availability, lifecycle, pricing, quotas, account-plan restrictions, and exam versions must be checked before use. The [AWS documentation portal](https://docs.aws.amazon.com/) and [AWS service overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html) are the starting points for new or omitted workload-specific features.
+
+## Support this roadmap
+
+If this roadmap helps you, [star the repository](https://github.com/hareramray/aws-roadmap/stargazers) or [sponsor Hareram Ray on GitHub](https://github.com/sponsors/hareramray) to support its continued development. You can also [report an issue](https://github.com/hareramray/aws-roadmap/issues) or submit a pull request with corrections, clearer explanations, or new practical examples.
